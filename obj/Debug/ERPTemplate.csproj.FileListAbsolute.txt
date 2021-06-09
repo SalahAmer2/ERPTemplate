@@ -1,0 +1,10 @@
+D:\ERP Projects\ERPTemplate\bin\Debug\ERPTemplate.exe.config
+D:\ERP Projects\ERPTemplate\bin\Debug\ERPTemplate.exe
+D:\ERP Projects\ERPTemplate\bin\Debug\ERPTemplate.pdb
+D:\ERP Projects\ERPTemplate\obj\Debug\ERPTemplate.csproj.AssemblyReference.cache
+D:\ERP Projects\ERPTemplate\obj\Debug\ERPTemplate.Dashboard.resources
+D:\ERP Projects\ERPTemplate\obj\Debug\ERPTemplate.Properties.Resources.resources
+D:\ERP Projects\ERPTemplate\obj\Debug\ERPTemplate.csproj.GenerateResource.cache
+D:\ERP Projects\ERPTemplate\obj\Debug\ERPTemplate.csproj.CoreCompileInputs.cache
+D:\ERP Projects\ERPTemplate\obj\Debug\ERPTemplate.exe
+D:\ERP Projects\ERPTemplate\obj\Debug\ERPTemplate.pdb
