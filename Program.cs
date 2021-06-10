@@ -16,7 +16,8 @@ namespace ERPTemplate
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Dashboard());
+            //Application.Run(new Dashboard());
+            Application.Run(new Form1());
         }
     }
 }

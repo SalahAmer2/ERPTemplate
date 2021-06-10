@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace ERPTemplate
 {
-    public partial class Dashboard : Form
+    public partial class Form1 : Form
     {
-        public Dashboard()
+        public Form1()
         {
             InitializeComponent();
-        }
-
-        private void Dashboard_Load(object sender, EventArgs e)
-        {
-
         }
     }
 }

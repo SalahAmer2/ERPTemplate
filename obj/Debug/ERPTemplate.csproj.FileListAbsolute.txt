@@ -8,3 +8,4 @@ D:\ERP Projects\ERPTemplate\obj\Debug\ERPTemplate.csproj.GenerateResource.cache
 D:\ERP Projects\ERPTemplate\obj\Debug\ERPTemplate.csproj.CoreCompileInputs.cache
 D:\ERP Projects\ERPTemplate\obj\Debug\ERPTemplate.exe
 D:\ERP Projects\ERPTemplate\obj\Debug\ERPTemplate.pdb
+D:\ERP Projects\ERPTemplate\obj\Debug\ERPTemplate.Form1.resources
