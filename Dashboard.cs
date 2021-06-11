@@ -17,9 +17,5 @@ namespace ERPTemplate
             InitializeComponent();
         }
 
-        private void Dashboard_Load(object sender, EventArgs e)
-        {
-
-        }
     }
 }
